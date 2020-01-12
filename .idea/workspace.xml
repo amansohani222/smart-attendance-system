@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f579c8da-bfa4-4a70-a1fc-4fd3e07e29a9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Aman\PycharmProjects\smart-attendence-system\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WG5YA8fizeJhuOm0YXxC2rBIJG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f579c8da-bfa4-4a70-a1fc-4fd3e07e29a9" name="Default Changelist" comment="" />
+      <created>1578763135990</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578763135990</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="263" y="98" key="IDE.errors.dialog" timestamp="1578836254793">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="98" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1578836254793" />
+    <state x="184" y="5" key="SettingsEditor" timestamp="1578770898566">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="5" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578770898566" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1578771009339">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1578771009339" />
+  </component>
+</project>
